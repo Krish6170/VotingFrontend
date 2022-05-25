@@ -5,12 +5,12 @@ import { Box, Button } from "@material-ui/core";
 import { useState } from "react";
 import LabTabs from "./tabs";
 import {  useContractCall } from "@usedapp/core";
-import netmap from "../chain-info/deployments/map.json";
+import netmap from "../deployments/map.json";
 import { constants } from "ethers";
 import { utils } from "ethers";
 
 
-import Vote from "../chain-info/contracts/Vote.json";
+import Vote from "../contracts/Vote.json";
 
 
 export const Main = () => {
