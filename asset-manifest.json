@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/VotingFrontend/static/js/main.5fecc70a.chunk.js",
-    "main.js.map": "/VotingFrontend/static/js/main.5fecc70a.chunk.js.map",
-    "runtime-main.js": "/VotingFrontend/static/js/runtime-main.b89be3c4.js",
-    "runtime-main.js.map": "/VotingFrontend/static/js/runtime-main.b89be3c4.js.map",
-    "static/js/2.39381aac.chunk.js": "/VotingFrontend/static/js/2.39381aac.chunk.js",
-    "static/js/2.39381aac.chunk.js.map": "/VotingFrontend/static/js/2.39381aac.chunk.js.map",
-    "static/js/3.6b07d437.chunk.js": "/VotingFrontend/static/js/3.6b07d437.chunk.js",
-    "static/js/3.6b07d437.chunk.js.map": "/VotingFrontend/static/js/3.6b07d437.chunk.js.map",
+    "main.js": "/VotingFrontend/static/js/main.a4e8566c.chunk.js",
+    "main.js.map": "/VotingFrontend/static/js/main.a4e8566c.chunk.js.map",
+    "runtime-main.js": "/VotingFrontend/static/js/runtime-main.bfedccad.js",
+    "runtime-main.js.map": "/VotingFrontend/static/js/runtime-main.bfedccad.js.map",
+    "static/js/2.65fd58dc.chunk.js": "/VotingFrontend/static/js/2.65fd58dc.chunk.js",
+    "static/js/2.65fd58dc.chunk.js.map": "/VotingFrontend/static/js/2.65fd58dc.chunk.js.map",
+    "static/js/3.8aa3b25f.chunk.js": "/VotingFrontend/static/js/3.8aa3b25f.chunk.js",
+    "static/js/3.8aa3b25f.chunk.js.map": "/VotingFrontend/static/js/3.8aa3b25f.chunk.js.map",
     "index.html": "/VotingFrontend/index.html",
-    "static/js/2.39381aac.chunk.js.LICENSE.txt": "/VotingFrontend/static/js/2.39381aac.chunk.js.LICENSE.txt"
+    "static/js/2.65fd58dc.chunk.js.LICENSE.txt": "/VotingFrontend/static/js/2.65fd58dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b89be3c4.js",
-    "static/js/2.39381aac.chunk.js",
-    "static/js/main.5fecc70a.chunk.js"
+    "static/js/runtime-main.bfedccad.js",
+    "static/js/2.65fd58dc.chunk.js",
+    "static/js/main.a4e8566c.chunk.js"
   ]
 }
